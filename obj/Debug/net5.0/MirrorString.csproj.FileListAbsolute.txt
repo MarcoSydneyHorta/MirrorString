@@ -18,9 +18,7 @@ D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\MirrorString.deps.json
 D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\MirrorString.runtimeconfig.json
 D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\MirrorString.runtimeconfig.dev.json
 D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\MirrorString.dll
-D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\ref\MirrorString.dll
 D:\Marco\Cursos\C#\MirrorString\bin\Debug\net5.0\MirrorString.pdb
-D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.csproj.AssemblyReference.cache
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.GeneratedMSBuildEditorConfig.editorconfig
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.AssemblyInfoInputs.cache
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.AssemblyInfo.cs
@@ -29,3 +27,5 @@ D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.dll
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\ref\MirrorString.dll
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.pdb
 D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.genruntimeconfig.cache
+D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\MirrorString.csproj.AssemblyReference.cache
+D:\Marco\Cursos\C#\MirrorString\obj\Debug\net5.0\refint\MirrorString.dll
